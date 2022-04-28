@@ -92,4 +92,4 @@ If you donlt like to play in linked channel:
 #### Special Credits
 - [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
 - [Awesome Bot](http://t.me/LaylaList) Channel bot list
-- [Dev](http://t.me/HEROGAMERS1) Hero owner of this bot
+- [Dev](https://github.com/wnaduranma/VCPlayBot.git) Hero owner of this bot
